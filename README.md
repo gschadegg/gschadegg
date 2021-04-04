@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## My Dev Statistics
+
+<p>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gschadegg&show_icons=true&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschadegg&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>  
+
+
 <!--
 **gschadegg/gschadegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
