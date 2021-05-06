@@ -33,7 +33,6 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=111&logoColor=AAA&style=flat-square)
 ![Figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=111&logoColor=AAA&style=flat-square)
 
-Frameworks and libraries
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gretchen-schadegg/)](https://www.linkedin.com/in/gretchen-schadegg/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gretz315/)](https://www.instagram.com/gretz315/)
