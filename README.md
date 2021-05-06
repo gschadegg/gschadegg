@@ -1,11 +1,46 @@
-### Hi there 👋
+### Hey, I'm Gretchen 👋
 
-## My Dev Statistics
+I'm a Nomadic Full-Stack Developer located in the United States.
+
+🔭 I’m currently working on a variety of freelance projects
+
+🌱 I’m currently learning React Native 
+
+👯 I enjoy collaborating on web application projects
+
+😄 I like to code, read, hike, and travel in my free time
+
+💬 Ask me about full-time RVing
+
+
+##
+
+![languages&tools](https://img.shields.io/badge/-Languages%20%26%20Tools-lightgrey)
+![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=111&logoColor=AAA&style=flat-square)
+![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=111&logoColor=AAA&style=flat-square)
+![Node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.JS&color=111&logoColor=AAA&style=flat-square)
+![NPM](https://img.shields.io/static/v1?logo=npm&label=&message=npm&color=111&logoColor=AAA&style=flat-square)
+![Express](https://img.shields.io/static/v1?logo=express&label=&message=Express&color=111&logoColor=AAA&style=flat-square)
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=111&logoColor=AAA&style=flat-square)
+![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=111&logoColor=AAA&style=flat-square)
+![GraphQL](https://img.shields.io/static/v1?logo=graphql&label=&message=GraphQL&color=111&logoColor=AAA&style=flat-square)
+![Gatsby](https://img.shields.io/static/v1?logo=gatsby&label=&message=Gatsby&color=111&logoColor=AAA&style=flat-square)
+![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=111&logoColor=AAA&style=flat-square)
+![Figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=111&logoColor=AAA&style=flat-square)
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gretchen%20Schadegg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gretchen-schadegg/)](https://www.linkedin.com/in/gretchen-schadegg/)
+[![Instagram Badge](https://img.shields.io/badge/-Gretz315-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gretz315/)](https://www.instagram.com/gretz315/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@strifellc.maryland@gmail.com)](mailto:strifellc.maryland@gmail.com)
+
+
+## GitHub Stats
 
 <p>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gschadegg&theme=vue-dark&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gschadegg&theme=vue-dark&show_icons=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschadegg&theme=vue-dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschadegg&theme=vue-dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>   
 </p>  
 
 
