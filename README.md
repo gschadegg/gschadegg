@@ -24,6 +24,7 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=111&logoColor=AAA&style=flat-square)
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=111&logoColor=AAA&style=flat-square)
 ![GraphQL](https://img.shields.io/static/v1?logo=graphql&label=&message=GraphQL&color=111&logoColor=AAA&style=flat-square)
+![NextJS](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=NextJS&color=111&logoColor=AAA&style=flat-square)
 ![Gatsby](https://img.shields.io/static/v1?logo=gatsby&label=&message=Gatsby&color=111&logoColor=AAA&style=flat-square)
 ![Markdown](https://img.shields.io/static/v1?logo=markdown&label=&message=Markdown&color=111&logoColor=AAA&style=flat-square)
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=111&logoColor=AAA&style=flat-square)
@@ -31,6 +32,7 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 ![SASS](https://img.shields.io/static/v1?logo=SASS&label=&message=SASS&color=111&logoColor=AAA&style=flat-square)
 ![TailwindCSS](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=TailwindCSS&color=111&logoColor=AAA&style=flat-square)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=111&logoColor=AAA&style=flat-square)
+![Storybook](https://img.shields.io/static/v1?logo=storybook&label=&message=Storybook&color=111&logoColor=AAA&style=flat-square)
 ![Figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=111&logoColor=AAA&style=flat-square)
 
 
