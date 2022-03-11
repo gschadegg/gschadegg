@@ -15,7 +15,7 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 
 ##
 
-![languages, frameworks, & tools](https://img.shields.io/badge/-Languages%20%26%20Tools-lightgrey)
+![languages, frameworks, & tools](https://img.shields.io/badge/-Languages%20%26%20Tools-grey)
 
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=111&logoColor=AAA&style=flat-square)
 ![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=111&logoColor=AAA&style=flat-square)
