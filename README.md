@@ -35,7 +35,7 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 ![Storybook](https://img.shields.io/static/v1?logo=storybook&label=&message=Storybook&color=111&logoColor=AAA&style=flat-square)
 ![Figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=111&logoColor=AAA&style=flat-square)
 
-
+[![CodePen Badge](https://img.shields.io/badge/-Codepen-blueviolet?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/gschadegg/)](https://codepen.io/gschadegg/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gretchen-schadegg/)](https://www.linkedin.com/in/gretchen-schadegg/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gretz315/)](https://www.instagram.com/gretz315/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@strifellc.md@gmail.com)](mailto:strifellc.md@gmail.com)
