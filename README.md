@@ -1,3 +1,4 @@
+[![@gschadegg's Holopin board](https://holopin.io/api/user/board?user=gschadegg)](https://holopin.io/@gschadegg)
 ### Hey, I'm Gretchen 👋
 
 I'm a Nomadic Full-Stack Developer located in the United States.
@@ -39,6 +40,7 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gretchen-schadegg/)](https://www.linkedin.com/in/gretchen-schadegg/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gretz315/)](https://www.instagram.com/gretz315/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@strifellc.md@gmail.com)](mailto:strifellc.md@gmail.com)
+
 
 
 ## GitHub Stats
