@@ -1,11 +1,8 @@
-[![@gschadegg's Holopin board](https://holopin.io/api/user/board?user=gschadegg)](https://holopin.io/@gschadegg)
 ### Hey, I'm Gretchen 👋
 
 I'm a Nomadic Full-Stack Developer located in the United States.
 
 🔭 I’m currently working on a variety of freelance projects
-
-🌱 I’m currently learning React Native 
 
 👯 I enjoy collaborating on web application projects
 
@@ -19,14 +16,14 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 ![languages, frameworks, & tools](https://img.shields.io/badge/-Languages%20%26%20Tools-grey)
 
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=111&logoColor=AAA&style=flat-square)
-![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=111&logoColor=AAA&style=flat-square)
-![Node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.JS&color=111&logoColor=AAA&style=flat-square)
-![Express](https://img.shields.io/static/v1?logo=express&label=&message=Express&color=111&logoColor=AAA&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=111&logoColor=AAA&style=flat-square)
-![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=111&logoColor=AAA&style=flat-square)
-![GraphQL](https://img.shields.io/static/v1?logo=graphql&label=&message=GraphQL&color=111&logoColor=AAA&style=flat-square)
 ![NextJS](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=NextJS&color=111&logoColor=AAA&style=flat-square)
 ![Gatsby](https://img.shields.io/static/v1?logo=gatsby&label=&message=Gatsby&color=111&logoColor=AAA&style=flat-square)
+![Nx](https://img.shields.io/static/v1?logo=nx&label=&message=Nx&color=111&logoColor=AAA&style=flat-square)
+![Node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.JS&color=111&logoColor=AAA&style=flat-square)
+![Express](https://img.shields.io/static/v1?logo=express&label=&message=Express&color=111&logoColor=AAA&style=flat-square)
+![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=111&logoColor=AAA&style=flat-square)
+![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=111&logoColor=AAA&style=flat-square)
 ![Markdown](https://img.shields.io/static/v1?logo=markdown&label=&message=Markdown&color=111&logoColor=AAA&style=flat-square)
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=111&logoColor=AAA&style=flat-square)
 ![CSS](https://img.shields.io/static/v1?logo=CSS3&label=&message=CSS&color=111&logoColor=AAA&style=flat-square)
@@ -56,6 +53,7 @@ I'm a Nomadic Full-Stack Developer located in the United States.
 **gschadegg/gschadegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![@gschadegg's Holopin board](https://holopin.io/api/user/board?user=gschadegg)](https://holopin.io/@gschadegg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -65,5 +63,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GraphQL](https://img.shields.io/static/v1?logo=graphql&label=&message=GraphQL&color=111&logoColor=AAA&style=flat-square)
 -->
 
